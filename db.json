@@ -40,15 +40,15 @@
         ],
         "id": 0
     },{
-        "title": "Kaos Oblong 2",
+        "title": "Kemeja 1",
         "description": "T-Shirt Oversize Erigo saat ini menjadi pilihan terbaik untuk tampil stylish dengan produk yang berkualitas tinggi dan berbagai pilihan warna. Dengan model oversize dan sablon timbul yang berkualitas, T-Shirt Oversize Erigo dapat menambahkan percaya dirimu untuk tampil lebih keren. T-Shirt Oversize Erigo dapat digunakan dengan dipadukan outerwear ataupun tidak. Apapun pilihanmu, T-shirt Oversize dapat membuat tampilanmu lebih menarik.",
         "price": "50000",
         "discount": "25000",
-        "category": "t-shirt",
-        "image": "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Erigo-T-Shirt-Maurice-Cheeks-Black-1.jpg",
+        "category": "shirt",
+        "image": "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/rug-1643468740978-1.jpg",
         "images": [
+            "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/rug-1643468740978-1.jpg",
             "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Erigo-T-Shirt-Maurice-Cheeks-Black-1.jpg",
-            "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Erigo-T-Shirt-Bill-Russel-Black-5_1024x1024.jpg",
             "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Erigo-T-Shirt-Bill-Russel-Black-4_1024x1024.jpg"
         ],
         "size": [
