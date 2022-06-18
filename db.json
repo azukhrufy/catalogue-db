@@ -1,10 +1,9 @@
 {
 "products" : [
     {
-        "title": "Kaos Oblong",
+        "title": "Bill Russel Black",
         "description": "T-Shirt Oversize Erigo saat ini menjadi pilihan terbaik untuk tampil stylish dengan produk yang berkualitas tinggi dan berbagai pilihan warna. Dengan model oversize dan sablon timbul yang berkualitas, T-Shirt Oversize Erigo dapat menambahkan percaya dirimu untuk tampil lebih keren. T-Shirt Oversize Erigo dapat digunakan dengan dipadukan outerwear ataupun tidak. Apapun pilihanmu, T-shirt Oversize dapat membuat tampilanmu lebih menarik.",
-        "price": "50000",
-        "discount": "25000",
+        "price": "78000",
         "category": "t-shirt",
         "image": "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Erigo-T-Shirt-Bill-Russel-Black-1.jpg",
         "images": [
@@ -40,41 +39,34 @@
         ],
         "id": 0
     },{
-        "title": "Kemeja Polos",
-        "description": "T-Shirt Oversize Erigo saat ini menjadi pilihan terbaik untuk tampil stylish dengan produk yang berkualitas tinggi dan berbagai pilihan warna. Dengan model oversize dan sablon timbul yang berkualitas, T-Shirt Oversize Erigo dapat menambahkan percaya dirimu untuk tampil lebih keren. T-Shirt Oversize Erigo dapat digunakan dengan dipadukan outerwear ataupun tidak. Apapun pilihanmu, T-shirt Oversize dapat membuat tampilanmu lebih menarik.",
-        "price": "50000",
-        "discount": "25000",
+        "title": "Ciangi V2 SS Beige",
+        "description": "Kalau kamu membutuhkan kemeja yang adem, nyerap keringat, tidak panas, stretch/lentur, berarti Ciangi V2 SS ini cocok buat kamu. Selain kerahnya yang kita buat dengan tipe kerah tegak, cuttingan-nya yang slim juga membuat badan kamu lebih ramping dan keren loh!",
+        "price": "139.310",
         "category": "shirt",
         "image": "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/rug-1643468740978-1.jpg",
         "images": [
             "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/rug-1643468740978-1.jpg",
-            "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Erigo-T-Shirt-Maurice-Cheeks-Black-1.jpg",
-            "https://cdn.shopify.com/s/files/1/0607/2841/0296/products/Erigo-T-Shirt-Bill-Russel-Black-4_1024x1024.jpg"
+            "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/rug-1643468740990-2.jpg",
+            "https://cdn.shopify.com/s/files/1/0054/6737/3638/products/rug-1643468740995-3.jpg"
         ],
         "size": [
             {
                 "name": "S",
                 "stock": "150",
-                "price": "50000",
+                "price": "139.310",
                 "id":0
             },
             {
                 "name": "M",
                 "stock": "50",
-                "price": "50000",
+                "price": "140.000",
                 "id":1
             },
             {
                 "name": "L",
                 "stock": "80",
-                "price": "55000",
+                "price": "145.000",
                 "id":2
-            },
-            {
-                "name": "XL",
-                "stock": "60",
-                "price": "60000",
-                "id":3
             }
         ],
         "id": 1
